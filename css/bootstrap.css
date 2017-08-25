@@ -399,10 +399,6 @@ mark, .mark {
 	max-width: 100%;
 	height: auto;
 }
-.img-fluidh {
-width: 80%;
-  height: same-as-width;
-}
 .img-thumbnail {
 	padding: 0.25rem;
 	background-color: #fff;
